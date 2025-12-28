@@ -124,4 +124,4 @@ MIT License - feel free to use this template for your own portfolio!
 
 ---
 
-Built with ❤️ by [Arda Gündoğan](https://github.com/ardarodi)
+Built by [Arda Gündoğan](https://github.com/ardarodi)
