@@ -160,21 +160,21 @@ export const testimonials = [
     name: "Dr. Maria Kovács",
     role: "Professor, Óbuda University",
     image: "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face",
-    content: "Ahmet demonstrates exceptional problem-solving abilities and a genuine passion for software engineering. His projects consistently show attention to both technical excellence and user experience."
+    content: "Arda demonstrates exceptional problem-solving abilities and a genuine passion for software engineering. His projects consistently show attention to both technical excellence and user experience."
   },
   {
     id: 2,
     name: "Thomas Weber",
     role: "CTO, TechHub Budapest",
     image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
-    content: "Working with Ahmet has been a pleasure. His ability to quickly grasp complex systems and deliver high-quality code makes him stand out. He's not just a developer; he's a problem solver."
+    content: "Working with Arda has been a pleasure. His ability to quickly grasp complex systems and deliver high-quality code makes him stand out. He's not just a developer; he's a problem solver."
   },
   {
     id: 3,
     name: "Sarah Mitchell",
     role: "Startup Founder",
     image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face",
-    content: "Ahmet built our MVP from scratch, and the results exceeded our expectations. His communication was clear, deadlines were met, and the code quality was production-ready from day one."
+    content: "Arda built our MVP from scratch, and the results exceeded our expectations. His communication was clear, deadlines were met, and the code quality was production-ready from day one."
   }
 ];
 
