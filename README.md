@@ -1,4 +1,4 @@
-"# 🚀 Arda Gündoğan - Portfolio
+🚀 Arda Gündoğan - Portfolio
 
 Premium blurple-themed personal portfolio website built with React, TailwindCSS, and Framer Motion.
 
@@ -29,7 +29,7 @@ Premium blurple-themed personal portfolio website built with React, TailwindCSS,
 
 ```bash
 # Clone the repository
-git clone https://github.com/ardarodi/ardarodi.github.io.git
+git clone https://github.com/ardarodi/portfolio.git
 
 # Navigate to project directory
 cd portfolio
