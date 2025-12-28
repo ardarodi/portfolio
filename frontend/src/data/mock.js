@@ -1,20 +1,20 @@
 // Mock data for portfolio website
 
 export const personalInfo = {
-  name: "Ahmet Yilmaz",
+  name: "Arda Gündoğan",
   title: "Full Stack Developer",
   university: "Óbuda University",
   degree: "Computer Science Engineering",
-  email: "hello@ahmetyilmaz.dev",
+  email: "hello@ardarodi.dev",
   location: "Budapest, Hungary",
   bio: "I'm a passionate Full Stack Developer studying Computer Science Engineering at Óbuda University. I specialize in building scalable web applications with clean architecture and exceptional user experiences. My approach combines technical excellence with a deep understanding of user needs, resulting in products that not only work flawlessly but feel intuitive and delightful to use.",
   shortBio: "Crafting digital experiences that merge elegant design with robust engineering.",
   resumeUrl: "#",
   socials: {
-    github: "https://github.com/ahmetyilmaz",
-    linkedin: "https://linkedin.com/in/ahmetyilmaz",
-    twitter: "https://twitter.com/ahmetyilmaz",
-    email: "mailto:hello@ahmetyilmaz.dev"
+    github: "https://github.com/ardarodi",
+    linkedin: "https://linkedin.com/in/ardarodi",
+    twitter: "https://twitter.com/Wencyshu",
+    email: "mailto:hello@ardarodi.dev"
   }
 };
 
@@ -136,7 +136,7 @@ export const experiences = [
     id: 2,
     type: "work",
     title: "Full Stack Developer Intern",
-    organization: "TechHub Budapest",
+    organization: "MATDA Budapest",
     location: "Budapest, Hungary",
     period: "Jun 2024 - Present",
     description: "Building scalable web applications using React and Node.js. Collaborating with senior developers on architecture decisions and code reviews.",
